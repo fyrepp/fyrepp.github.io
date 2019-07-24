@@ -24,9 +24,9 @@ github_username:  fyrepp
 
 # Build settings
 markdown: kramdown
-Permalink: pretty
-Paginate: 60
-# theme: minima
+#Permalink: pretty
+#Paginate: 60
+theme: minima
 # plugins:
 #  - jekyll-feed
 
