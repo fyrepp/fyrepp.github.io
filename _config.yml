@@ -29,7 +29,7 @@ github_username:  fyrepp
 markdown: kramdown
 #Permalink: pretty
 #Paginate: 60
-#theme: minima
+theme: minima
 # plugins:
 #  - jekyll-feed
 
