@@ -38,7 +38,7 @@ src="https://vincenttam.github.io/javascripts/MathJaxLocal.js"
 
 Add the following line the _layouts/post.html
 
-{% highlight js %}
+{% highlight css %}
 {% include mathjax.html %}
 {% endhighlight %}
 
