@@ -39,7 +39,7 @@ src="https://vincenttam.github.io/javascripts/MathJaxLocal.js"
 Add the following line the _layouts/post.html
 
 {% highlight css %}
-{% include mathjax.html %}
+{% raw %}{% include mathjax.html %}{% endraw %}
 {% endhighlight %}
 
 Add the following line to the header of a post
