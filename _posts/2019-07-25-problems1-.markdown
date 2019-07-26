@@ -1,6 +1,7 @@
 ---
 layout: post
 title: problem 1
+mathjax: true
 tags: [frontpage, jekyll, blog]
 ---
 
