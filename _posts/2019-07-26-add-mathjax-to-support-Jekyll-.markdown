@@ -48,4 +48,4 @@ src="https://vincenttam.github.io/javascripts/MathJaxLocal.js"
 
 {% highlight js %}
 mathjax: true
-{% endhightlight %}
+{% endhighlight %}
