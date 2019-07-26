@@ -9,8 +9,8 @@ Solution was found in [Brendan AR Sechter's Development Blog](http://sgeos.githu
 ---
 
 Steps:
-Add mathjax.html file to _includes, the file need to be edited in Xcode (cannot use TextEdit since some codes will not be displayed in TextEdit). The following codes is added inside header. 
 
+Add mathjax.html file to _includes, the file need to be edited in Xcode (cannot use TextEdit since some codes will not be displayed in TextEdit). The following codes is added inside header. 
 {% highlight js %}
 {% if page.mathjax %}
 <script type="text/x-mathjax-config">
