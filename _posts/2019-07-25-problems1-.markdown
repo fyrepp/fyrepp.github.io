@@ -4,4 +4,4 @@ title: problem 1
 tags: [frontpage, jekyll, blog]
 ---
 
-Question 4.32 (Heard on the street): A coin-making machine produces pennies. Each penny is manufactured to have a probability P of turning up heads. However, the machine draws P randomly from the uniform distribution on [0, 1] so P can differ for each coin produced. A coin pops out of the machine. Your flip it 1000 times, and you get 750 heads. Given this information, what is the (conditional) distribution function $$F_{P \vert H}(p)$$ for the probability of a head for that coin (where "H" denotes conditioning on the head). 
+Question 4.32 (Heard on the street): A coin-making machine produces pennies. Each penny is manufactured to have a probability P of turning up heads. However, the machine draws P randomly from the uniform distribution on [0, 1] so P can differ for each coin produced. A coin pops out of the machine. Your flip it 1000 times, and you get 750 heads. Given this information, what is the (conditional) distribution function $$F_{P  H}(p)$$ for the probability of a head for that coin (where "H" denotes conditioning on the head). 
