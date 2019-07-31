@@ -19,6 +19,8 @@ facebook:    ''
 markdown:  kramdown
 permalink: pretty
 paginate:  60
+kramdown:
+  input: GFM
 
 sass:
   style: compressed
