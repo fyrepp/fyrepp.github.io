@@ -11,7 +11,7 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font: 400 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font: 400 10px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   color: #111;
   background-color: #fdfdfd;
   -webkit-text-size-adjust: 100%;
@@ -348,7 +348,7 @@ table {
 .post-content {
   margin-bottom: 30px; }
   .post-content h2 {
-    font-size: 20px; }
+    font-size: 32px; }
     @media screen and (max-width: 800px) {
       .post-content h2 {
         font-size: 28px; } }
