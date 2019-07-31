@@ -5,7 +5,7 @@ tags: [frontpage, jekyll, blog]
 mathjax: true
 ---
 Heard on street
-- [x] 4.32
+[x] 4.32
 
 ---
 
