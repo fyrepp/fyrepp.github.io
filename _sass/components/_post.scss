@@ -11,8 +11,8 @@
     margin-bottom: $base-spacing-unit;
 
     @include mq($from: tablet) {
-      font-size: double($font-size-small);
-      line-height: double($line-height-medium);
+      font-size: $font-size-smal;
+      line-height: $line-height-medium;
     }
   }
 
